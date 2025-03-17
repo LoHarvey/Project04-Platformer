@@ -7,6 +7,12 @@ Description
 
 ## Implementation
 Which features you included.
+-Everything from the exercises
+-A start screen for the game
+-An end screen for the game where you can restart
+-Paralaxed backgrounds for the levels 
+-Have multiple personally designed levels
+-Added screen UI and Variable to track the amount of total coins gathered between scenes
 
 ## References
 
@@ -17,3 +23,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
+Logan Harvey
